@@ -15,8 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_vivekrajak_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vivekrajak_" height="30" width="40" /></a>
-<a href="https://medium.com/@vivek.rajak027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vivek.rajak027" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rajakvivek080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajakvivek080" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vivek-rajak-370444220" target="_blank"><img align="center" src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" alt="LinkedIn Profile" height="30" width="50" /a>
 </p>
