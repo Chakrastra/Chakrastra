@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects will be available at [https://github.com/Chakrastra](https://github.com/Chakrastra)
 
-- 📝 Sometimes I write articles on [https://medium.com/@vivek.rajak027](https://medium.com/@vivek.rajak027)
+- 📝 Sometimes I write articles on [https://auth.geeksforgeeks.org/user/rajakvivek080/practice](https://auth.geeksforgeeks.org/user/rajakvivek080/practice)
 
 - 💬 Ask me about **C, C++ or DSA.**
 
