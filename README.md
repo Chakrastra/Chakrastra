@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chakrastra" alt="Chakrastra" /></a> </p>
 -->
 
-- 🔭 I’m currently working on **Projects In Python**
+- 🔭 I’m currently working on **Projects In Python, R and Data analysis**
 
 - 🌱 I’m currently learning **Github, Competetive Programming, Data analysis**
 
