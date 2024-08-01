@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Github, DSA, Data analysis**
 
-- 👯 I’m looking to collaborate on: **Data Science and Ml projects**
+- 👯 I’m looking to collaborate on: **Data Science and ML projects**
 
 - 💬 Ask me about **C++, Python, R programming, Data Analysis, and any general software development questions.**
 
