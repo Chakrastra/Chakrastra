@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Projects In Python, R and Data analysis**
 
-- 🌱 I’m currently learning **Github, DSA, Data analysis**
+- 🌱 I’m currently learning **DSA, Machine Learning**
 
 - 👯 I’m looking to collaborate on: **Data Science and ML projects**
 
